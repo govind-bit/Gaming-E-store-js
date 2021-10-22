@@ -1,3 +1,3 @@
 # Gaming-E-store-js
 
-Link - https://weather-js-basic.netlify.app
+Link - https://js-gaming-estore.netlify.app
